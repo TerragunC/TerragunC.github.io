@@ -1,0 +1,21 @@
+body {
+	background: #ADD8E6;
+	font-family: Georgia;
+	font-size: 18pt;
+}
+h2 {
+	color: #FF7F50;
+	text-decoration: underline;
+}
+b {
+	color: #9370DB;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+p:first-letter {
+	font-size: 27pt;
+}
